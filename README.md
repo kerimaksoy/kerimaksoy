@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kerim.</h1>
 <h3 align="center">I am a Front-End Developer.💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerimaksoy&label=Profile%20views&color=0e75b6&style=flat" alt="kerimaksoy" /> </p>
-
 - 🔭 I’m currently working on **front-end development.**
 - 📫 How to reach me **kerimaksoy99@gmail.com**
 
