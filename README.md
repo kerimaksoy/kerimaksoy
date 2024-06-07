@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerim.</h1>
-<h3 align="center">I am a Front-End Developer.💻</h3>
+<h3 align="center">I am a Software Developer.💻</h3>
 
 - 🔭 I’m currently working on **front-end development.**
 - 📫 How to reach me **kerimaksoy99@gmail.com**
